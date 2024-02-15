@@ -1,4 +1,5 @@
-# Hi there 👋 I am a developer who loves to create web applications in my taste.
+# Hi there 👋 
+I am a developer who loves to create web applications in my taste.
 
 
 ### I'm recently interested in 
