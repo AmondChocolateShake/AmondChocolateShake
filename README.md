@@ -1,6 +1,6 @@
 # Hi there 👋 
 I build small things that sometimes grow big.  
-Full-stack developer & indie hacker based in Korea 🇰🇷  (About to move to Brazil)
+Full-stack developer & indie hacker
 I love turning ideas into real, usable products —  
 from **concept → code → launch** 🚀  
 
